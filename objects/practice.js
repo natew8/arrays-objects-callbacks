@@ -65,12 +65,12 @@ favoriteThings.book = 'Harry Potter'
 */
 
 const backPack = {
-  firstPocket: 'chapstick'
+
 }
 
 const item = 'firstPocket'
 
-backPack[ item ['chapstick']]
+backPack[ item ] = 'chapstick'
 
 
 
