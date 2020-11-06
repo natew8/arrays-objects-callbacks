@@ -149,7 +149,10 @@ console.log(methodCollection)
   Return a new object with all of the information that you passed in.
 */
 
-//Code Here
+function makePerson(name, birthday, ssn){
+  return {name, birthday, ssn}
+}
+
 
 ////////// PROBLEM 7 //////////
 
