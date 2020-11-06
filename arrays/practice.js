@@ -98,19 +98,12 @@ function evenFinder(array){
   }
   return arr
 }
+
 //create a function
 //declare arr as []
 //create for loop
 
-// function evenFinder(array){
-//   let arr = [];
-//   for (let i = 0; i < array.length; i++){
-//     if (array[i] % 2 === 0){
-//       arr.push(array[i]);
-//     }
-//   }
-//   return arr;
-// }
+
 
 
 
